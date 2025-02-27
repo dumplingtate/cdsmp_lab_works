@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cdsmp_lab1_Enterprise_accounting/1.0.0": {
+        "runtime": {
+          "cdsmp_lab1_Enterprise_accounting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cdsmp_lab1_Enterprise_accounting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

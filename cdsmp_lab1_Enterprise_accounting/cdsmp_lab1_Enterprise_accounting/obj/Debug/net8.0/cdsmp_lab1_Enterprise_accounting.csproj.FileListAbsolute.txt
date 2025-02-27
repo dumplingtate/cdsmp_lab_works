@@ -1,0 +1,15 @@
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\bin\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.exe
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\bin\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.deps.json
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\bin\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.runtimeconfig.json
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\bin\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.dll
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\bin\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.pdb
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.AssemblyInfoInputs.cache
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.AssemblyInfo.cs
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.csproj.CoreCompileInputs.cache
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.sourcelink.json
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.dll
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\refint\cdsmp_lab1_Enterprise_accounting.dll
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.pdb
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\cdsmp_lab1_Enterprise_accounting.genruntimeconfig.cache
+C:\Users\tatiana\source\repos\cdsmp_lab1_Enterprise_accounting\cdsmp_lab1_Enterprise_accounting\obj\Debug\net8.0\ref\cdsmp_lab1_Enterprise_accounting.dll

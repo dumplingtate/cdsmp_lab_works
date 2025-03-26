@@ -1,3 +1,0 @@
-[submodule "submodule-repo"]
-	path = submodule-repo
-	url = https://github.com/dumplingtate/submodule-repo.git
